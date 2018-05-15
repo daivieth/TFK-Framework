@@ -2,8 +2,8 @@
 //| MQL5 Framework (TFK Framework)
 //|
 //| This file contains all the predefined functions to
-//| develop rapidly any type of trading algorithms for
-//| prototyping and increase our ability to test and deploy
+//| develop rapidly any type of trading robots for
+//| prototyping and increase the ability to test and deploy
 //| systems faster.
 //|
 //| To use this library, make sure this file: tframework.mqh
